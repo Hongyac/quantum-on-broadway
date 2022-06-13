@@ -14,8 +14,11 @@ Quantum Algorithms: an NYU-Bloomberg collaboration
 ### Grover's search algorithm
 1. Nielsen & Chuang, chapter 6
 2. A fast quantum mechanical algorithm for database search [https://arxiv.org/abs/quant-ph/9605043](https://arxiv.org/abs/quant-ph/9605043)
-3. A quantum algorithm for gravitational wave matched filtering [https://arxiv.org/abs/2109.01535](https://arxiv.org/abs/2109.01535)
-4. Quantum encoding is suitable for matched filtering [https://arxiv.org/abs/2204.04159](https://arxiv.org/abs/2204.04159)
+3. Quantum encoding is suitable for matched filtering [https://arxiv.org/abs/2204.04159](https://arxiv.org/abs/2204.04159)
+4. Canonical Construction of Quantum Oracles [https://arxiv.org/abs/2006.10656](https://arxiv.org/abs/2006.10656)
+### Grover and matched filtering 
+5. A quantum algorithm for gravitational wave matched filtering [https://arxiv.org/abs/2109.01535](https://arxiv.org/abs/2109.01535)
+6. An introduction to matched filters [https://ieeexplore.ieee.org/document/1057571](https://ieeexplore.ieee.org/document/1057571)
 
 ### Ising chain
 1. Investigating the Exchange of Ising Chains on a Digital Quantum Computer [https://arxiv.org/abs/2103.05502](https://arxiv.org/abs/2103.05502)
